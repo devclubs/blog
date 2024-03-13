@@ -102,18 +102,6 @@ nav:
   - Golang:
     - golang/index.md
     - GORM 教程: golang/gorm.md
-    - Creating your site: creating-your-site.md
-    - Publishing your site: publishing-your-site.md
-    - Customization: customization.md
-    - Conventions: conventions.md
-    - Browser support: browser-support.md
-    - Enterprise feedback: enterprise-support.md
-    - Philosophy: philosophy.md
-    - Alternatives: alternatives.md
-    - License: license.md
-    - Changelog:
-      - changelog/index.md
-      - How to upgrade: upgrade.md
   - Python:
     - python/index.md
 
